@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/json-comparator/static/css/main.e6c13ad2.css",
+    "main.js": "/json-comparator/static/js/main.31836af1.js",
+    "index.html": "/json-comparator/index.html",
+    "main.e6c13ad2.css.map": "/json-comparator/static/css/main.e6c13ad2.css.map",
+    "main.31836af1.js.map": "/json-comparator/static/js/main.31836af1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.31836af1.js"
+  ]
+}
